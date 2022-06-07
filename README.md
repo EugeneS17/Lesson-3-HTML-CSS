@@ -1,1 +1,1 @@
-# Html-lesson-3
+# Lesson-3 (Designing web pages)

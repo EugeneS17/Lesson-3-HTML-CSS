@@ -1,24 +1,30 @@
 @font-face {
-	font-family: "EmblemaOne-Regular";
-	src: url("https://github.com/bethrobson/Head-First-HTML/tree/master/chapter8/journal/EmblemaOne-Regular.woff"), 
-    url("https://github.com/bethrobson/Head-First-HTML/tree/master/chapter8/journal/EmblemaOne-Regular.ttf"); 
+    font-family: "EmblemaOne-Regular";
+    src: url("https://github.com/bethrobson/Head-First-HTML/tree/master/chapter8/journal/EmblemaOne-Regular.woff"),
+        url("https://github.com/bethrobson/Head-First-HTML/tree/master/chapter8/journal/EmblemaOne-Regular.ttf");
 }
+
 body {
     font-family: Verdana, Geneva, Arial, sans-serif;
     font-size: small;
 }
-h1,h2 {
+
+h1,
+h2 {
     color: #cc6600;
     border-bottom: thin dotted #cc6600;
 }
+
 h1 {
     font-family: "EmblemaOne-Regular", cursive;
     font-size: 220%;
 }
+
 h2 {
     font-size: 130%;
     font-weight: normal;
 }
-blockquote{
+
+blockquote {
     font-style: italic;
 }
